@@ -1,0 +1,25 @@
+
+body{
+    background-color: black;
+}
+
+#title{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dropdown{
+    margin: auto;
+}
+
+.carousel {
+    width:640px;
+    height:360px;
+    margin: auto;
+}
+
+.app{
+    text-align: center;
+}
+
